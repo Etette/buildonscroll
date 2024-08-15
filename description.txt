@@ -1,0 +1,9 @@
+GreenCertify Smart Contract
+Objective: GreenCertify is a decentralized application (dApp) that certifies environmentally-friendly products or processes. It allows organizations to issue and verify certifications on the blockchain, providing transparency and immutability to the certification process.
+
+Features:
+
+Issuing Certifications: Organizations can issue certifications for products or processes.
+Verification: Anyone can verify the authenticity of a certification.
+Revocation: Certifications can be revoked if necessary.
+Historical Data: Track all certifications and their statuses.
